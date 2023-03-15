@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string-array name="itemNames">
+        <item>ANCHOVIES</item>
+        <item>BEEF</item>
+        <item>CHEDDAR</item>
+        <item>HAM</item>
+        <item>MUSHROOM</item>
+        <item>ONION</item>
+        <item>PINEAPPLE</item>
+        <item>PEPPERONI</item>
+        <item>GREENPEPPER</item>
+        <item>PROVOLONE</item>
+        <item>SAUASAGE</item>
+    </string-array>
+    <string-array name="nyPizzaNames">
+        <item>BBQ Chicken</item>
+        <item>Meatzza</item>
+        <item>Build Your Own</item>
+        <item>Deluxe</item>
+    </string-array>
+    <string-array name="pizzaSize">
+        <item>SMALL</item>
+        <item>MEDIUM</item>
+        <item>LARGE</item>
+    </string-array>
+    <string name="main1">Chicago Style Pizza</string>
+    <string name="main2">New York Style Pizza</string>
+    <string name="main3">Current Order</string>
+    <string name="main4">Store Orders</string>
+    <string name="activity2name1">List of Selected Toppings:</string>
+    <string name="activity2name2">Select Toppings</string>
+    <string name="activity2name3">Add to Order</string>
+    <string name="currentorder1">Place Order</string>
+    <string name="currentorder2">Remove Order</string>
+    <string name="currentorder3">Clear Order</string>
+    <string name="storeorder1">Cancel Order</string>
+    <string name="storeorder2">Store Orders</string>
+    <string name="currentorder4">Current Order</string>
+
+    <string name="add">+</string>
+    <string name="remove">-</string>
+</resources>

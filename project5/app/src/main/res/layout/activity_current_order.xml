@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CurrentOrderActivity">
+
+    <TextView
+        android:id="@+id/Current_Order"
+        android:layout_width="179dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/currentorder4"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/store_list"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.129" />
+
+    <TextView
+        android:id="@+id/order_number"
+        android:layout_width="170dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="84dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@+id/store_list"
+        android:layout_width="395dp"
+        android:layout_height="327dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="9dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/subtotal"
+        android:layout_width="142dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="201dp"
+        android:layout_marginBottom="209dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/sales_tax"
+        android:layout_width="147dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="7dp"
+        app:layout_constraintBottom_toBottomOf="@+id/place_order"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/place_order" />
+
+    <TextView
+        android:id="@+id/order_total"
+        android:layout_width="145dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginBottom="211dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/subtotal" />
+
+    <Button
+        android:id="@+id/remove_button"
+        android:layout_width="161dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="9dp"
+        android:text="@string/currentorder2"
+        app:layout_constraintBottom_toBottomOf="@+id/clear_order"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/clear_order" />
+
+    <Button
+        android:id="@+id/place_order"
+        android:layout_width="147dp"
+        android:layout_height="53dp"
+        android:layout_marginEnd="63dp"
+        android:layout_marginBottom="137dp"
+        android:text="@string/currentorder1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/clear_order"
+        android:layout_width="146dp"
+        android:layout_height="51dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="60dp"
+        android:text="@string/currentorder3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
