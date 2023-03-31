@@ -20,7 +20,7 @@ import java.util.ArrayList;
  * Pizza button in the MainActivity page. This class displays the pizza options for Chicago style
  * pizza and the user can click on any option they want which will redirect them to a new page.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class ChicagoPizzaActivity extends AppCompatActivity {
 
