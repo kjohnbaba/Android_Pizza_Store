@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * of BuildYourOwn pizza by setting the crust accordingly to the style of pizza
  * and setting the correct toppings depending on the user.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class BuildYourOwn extends Pizza {
 
