@@ -24,7 +24,7 @@ import java.util.ArrayList;
  * button in the Main Window. This activity class will deal with the current order and display
  * all correct information about the current order such as subtotal, total after tax, etc.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class CurrentOrderActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
