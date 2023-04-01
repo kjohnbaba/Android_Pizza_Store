@@ -14,7 +14,7 @@ import android.widget.TextView;
  * The MainActivty is the main page and is the first page the user sees. The page will list
  * four options that the user can choose. This is the home page.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class MainActivity extends AppCompatActivity {
 
