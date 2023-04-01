@@ -28,7 +28,7 @@ import java.util.Locale;
  * ItemAdapter and an inner class ItemsHolder (a static class)
  * The ItemsHolder class must extend RecyclerView.ViewHolder. In the constructor of this class,
  * you do something similar to the onCreate() method in an Activity.
- * @author Lily Chang & Jaspreet Kaur & Kerimcan Baba
+ * @author Kerimcan Baba
  */
 
 class ItemsAdapter extends RecyclerView.Adapter<ItemsAdapter.ItemsHolder>{
