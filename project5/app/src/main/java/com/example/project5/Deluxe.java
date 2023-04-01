@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * of Deluxe pizza by setting the crust accordingly to the style of pizza
  * and setting the correct toppings.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class Deluxe extends Pizza {
 
