@@ -10,7 +10,7 @@ import android.widget.Button;
  * For demonstration purpose, this class is the Activity to be started when an item on the
  * RecyclerView was clicked
  * Get the name of the item from an intent extra. The text of the button is set to the item name.
- * @author Lily Chang & Jaspreet Kaur & Kerimcan Baba
+ * @author Kerimcan Baba
  */
 
 public class ItemSelectedActivity extends AppCompatActivity {
