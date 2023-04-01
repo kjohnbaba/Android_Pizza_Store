@@ -4,7 +4,7 @@ package com.example.project5;
  * The Customizable class is an interface that is used in the
  * other classes.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public interface Customizable {
     /**
