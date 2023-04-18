@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * accordingly. This is the parent class of the four subclasses Deluxe,
  * BuildYourOwn, BBQChicken, and Meatzza.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public abstract class Pizza implements Customizable {
     private ArrayList<Topping> toppings;
