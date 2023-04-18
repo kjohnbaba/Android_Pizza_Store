@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * The ToppingActivity class is responsible for populating the toppings recycler view with the
  * correct labels and images.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class ToppingActivity extends AppCompatActivity {
 
