@@ -23,7 +23,7 @@ import java.util.List;
  * current store orders. This class works together with the CurrentOrderActivity class where they
  * both share data with each other. T
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class StoreOrdersActivity extends AppCompatActivity {
 
