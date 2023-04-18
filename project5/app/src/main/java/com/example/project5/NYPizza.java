@@ -5,7 +5,7 @@ package com.example.project5;
  * PizzaFactory and creates instances of Pizza and the subclass type.
  * This is used in the controllers when creating an order.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class NYPizza implements PizzaFactory{
 
