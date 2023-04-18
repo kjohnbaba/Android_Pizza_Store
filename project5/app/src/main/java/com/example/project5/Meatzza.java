@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * of Meatzza pizza by setting the crust accordingly to the style of pizza
  * and setting the correct toppings.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class Meatzza extends Pizza {
 
