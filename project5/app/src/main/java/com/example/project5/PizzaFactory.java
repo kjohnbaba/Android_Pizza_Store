@@ -5,7 +5,7 @@ package com.example.project5;
  * creating types of pizzas and is used in the Chicago Pizza
  * and New York Pizza classes.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public interface PizzaFactory {
 
