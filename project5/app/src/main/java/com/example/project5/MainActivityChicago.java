@@ -25,7 +25,7 @@ import java.util.Arrays;
  * current order page. This activity is responsible for gathering information about pizzas and creating
  * them based on the size and what type they are.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 public class MainActivityChicago extends AppCompatActivity {
 
