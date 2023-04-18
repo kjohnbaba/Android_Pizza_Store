@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * of pizzas. This class is responsible for adding pizzas to
  * the order or removing them.
  *
- * @author Jaspreet Kaur, Kerimcan Baba
+ * @author Kerimcan Baba
  */
 
 public class Order implements Customizable{
